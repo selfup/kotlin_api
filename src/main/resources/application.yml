@@ -1,0 +1,3 @@
+app:
+  root:
+    message: "hello world"
